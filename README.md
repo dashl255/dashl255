@@ -1,8 +1,8 @@
 # 👋 Hola, soy Diego Ortiz
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Apasionado+por+la+programaci%C3%B3n;Estudiante+de+Ingenier%C3%ADa)
-![Static Badge](https://img.shields.io/badge/label-3.12.0-color?label=Python&color=blue)
-![Static Badge](https://img.shields.io/badge/label%20--%20color?label=Git&color=yellow)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Apasionado+por+la+programaci%C3%B3n;Estudiante+de+Ingenier%C3%ADa)  
+![Static Badge](https://img.shields.io/badge/label-3.12.0-color?label=Python&color=blue)  
+![Static Badge](https://img.shields.io/badge/label%20--%20color?label=Git&color=yellow)  
 
 ---
 
